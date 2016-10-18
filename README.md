@@ -35,6 +35,7 @@ Below are several repositories that I find very useful for learning computer sci
 - [MIT grad's interview experience](http://kelukelu.me/interview/index.html)
 - [Amazon's SE interview experience](http://sobit.me/2016/07/08/amazon-software-engineer-interview/)
 - [Algorithm quick reference](https://gist.github.com/TSiege/cbb0507082bb18ff7e4b)
+
 ## And of course
 
 #### [The awesome list that inspired me](https://github.com/sindresorhus/awesome)

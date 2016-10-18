@@ -27,6 +27,14 @@ Below are several repositories that I find very useful for learning computer sci
 - Back end (Node.js, Express, and MongoDB)
 - And specific trending frameworks (React, SASS, D3)
  
+ #### Interview preparatory links (no links for copyrighted book)
+
+- Cracking the coding interview (Book)
+- Programming interviews exposed (Book)
+- [Google's "Director of Engineering" Hiring Test](http://www.gwan.com/blog/20160405.html)
+- [MIT grad's interview experience](http://kelukelu.me/interview/index.html)
+- [Amazon's SE interview experience](http://sobit.me/2016/07/08/amazon-software-engineer-interview/)
+- [Algorithm quick reference](https://gist.github.com/TSiege/cbb0507082bb18ff7e4b)
 ## And of course
 
 #### [The awesome list that inspired me](https://github.com/sindresorhus/awesome)

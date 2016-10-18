@@ -27,7 +27,7 @@ Below are several repositories that I find very useful for learning computer sci
 - Back end (Node.js, Express, and MongoDB)
 - And specific trending frameworks (React, SASS, D3)
  
- #### Interview preparatory links (no links for copyrighted book)
+#### Interview preparatory links (no links for copyrighted book)
 
 - Cracking the coding interview (Book)
 - Programming interviews exposed (Book)

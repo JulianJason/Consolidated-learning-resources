@@ -41,7 +41,8 @@ Below are several repositories that I find very useful for learning computer sci
 - [Google code jam](https://code.google.com/codejam/)
 - [Facebook hacker cup](https://www.facebook.com/hackercup/)
 - [Project Euler](https://projecteuler.net/) <- this one is very math heavy
-- 
+
+
 ## And of course
 
 #### [The awesome list that inspired me](https://github.com/sindresorhus/awesome)

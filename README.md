@@ -8,7 +8,7 @@ Below are several repositories that I find very useful for learning computer sci
  - Amazing learning resources and generally is my go to for learning
  
 
- #### [Programming books e-library](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
+#### [Programming books e-library](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
  
  - A huge repository for programming books that I will never finish.
  - Still proves useful when you need to compare chapters
@@ -36,6 +36,12 @@ Below are several repositories that I find very useful for learning computer sci
 - [Amazon's SE interview experience](http://sobit.me/2016/07/08/amazon-software-engineer-interview/)
 - [Algorithm quick reference](https://gist.github.com/TSiege/cbb0507082bb18ff7e4b)
 
+#### Now put them into practice
+- [Hackerrank](https://www.hackerrank.com/)
+- [Google code jam](https://code.google.com/codejam/)
+- [Facebook hacker cup](https://www.facebook.com/hackercup/)
+- [Project Euler](https://projecteuler.net/) <- this one is very math heavy
+- 
 ## And of course
 
 #### [The awesome list that inspired me](https://github.com/sindresorhus/awesome)

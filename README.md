@@ -13,6 +13,10 @@ Below are several repositories that I find very useful for learning computer sci
  - A huge repository for programming books that I will never finish.
  - Still proves useful when you need to compare chapters
 
+#### [Algorithms repository](https://github.com/tayllan/awesome-algorithms)
+- Curated repository for algorithms
+
+
 #### [Engineering blogs](https://github.com/kilimchoi/engineering-blogs)
 
 - A list of tech blogs by engineers themselves, not journalists.

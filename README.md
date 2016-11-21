@@ -40,6 +40,9 @@ Below are several repositories that I find very useful for learning computer sci
 - [Amazon's SE interview experience](http://sobit.me/2016/07/08/amazon-software-engineer-interview/)
 - [Algorithm quick reference](https://gist.github.com/TSiege/cbb0507082bb18ff7e4b)
 
+#### Extra tidbits and fun stuff to learn
+
+- [Checksums](https://github.com/teb311/check-suming)
 #### Now put them into practice
 - [Hackerrank](https://www.hackerrank.com/)
 - [Google code jam](https://code.google.com/codejam/)

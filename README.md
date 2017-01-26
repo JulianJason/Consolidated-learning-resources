@@ -49,6 +49,8 @@ Below are several repositories that I find very useful for learning computer sci
 - [Facebook hacker cup](https://www.facebook.com/hackercup/)
 - [Project Euler](https://projecteuler.net/) <- this one is very math heavy
 
+#### And go prepare yourself for interviews
+- [Best interview-related resources](https://github.com/andreis/interview)
 
 ## And of course
 
